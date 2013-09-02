@@ -1,4 +1,3 @@
-#
 require 'csv'
 require_relative 'aisles.rb'
 
