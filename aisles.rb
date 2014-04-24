@@ -11,7 +11,7 @@ end
 class Produce_Aisle < Aisle
   attr_reader :name, :fruit, :fruit_and_veggie_selection
   def initialize(args)
-    super 
+    super
     @fruit_and_veggie_selection = []
   end
 
